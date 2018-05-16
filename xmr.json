@@ -1,6 +1,6 @@
 {
     "algo": "cryptonight",
-    "background": false,
+    "background": true,
     "colors": true,
     "retries": 5,
     "retry-pause": 2,
