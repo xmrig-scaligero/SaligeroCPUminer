@@ -29,7 +29,7 @@ if [ -d /xmrig-scaligero/pools ];
 fi
 
 cd /xmrig-scaligero
-sudo ./xmrig --config=pools/xmr.json
+sudo ./xmrig --config=/xmrig-scaligero/pools/xmr.json
 
 # START MAIN MINER SCRIPT
 
